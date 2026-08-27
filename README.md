@@ -1,0 +1,1 @@
+This proof-of-concept is provided for **educational and authorized security research purposes only**. It demonstrates a publicly disclosed vulnerability (CVE-2022-30190 / "Follina") for the purpose of understanding, detecting, and defending against this class of attack.
